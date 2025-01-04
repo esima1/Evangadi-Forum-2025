@@ -1,0 +1,21 @@
+.homepage{
+    margin-top: 84px;
+}
+.head{
+    padding-top: 45px;
+}
+
+.qb{
+    background-color:#516CF0!important ;
+    width: 200px;
+    height: 40px;
+     border: none;
+     border-radius: 5px;
+     color: #fff;
+}
+.qb:hover{ 
+    background-color: #FE8402!important;
+}
+.askque{
+  margin-bottom: 20px;
+}
